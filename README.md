@@ -1,4 +1,4 @@
-Como executar o Selection Sort no terminal
+Como executar o QuickSort no terminal:
 
 Compile todos os arquivos .java
 javac StdIn.java StdOut.java Quick.java
